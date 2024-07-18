@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eacharodia.github.io/sitemap
+Sitemap: https://eacharodia.github.io/app/sitemap
+Sitemap: https://eacharodia.github.io/assets/sitemap
+Sitemap: https://eacharodia.github.io/css/sitemap
+Sitemap: https://eacharodia.github.io/includes/sitemap
+Sitemap: https://eacharodia.github.io/item/sitemap
+Sitemap: https://eacharodia.github.io/src/sitemap
